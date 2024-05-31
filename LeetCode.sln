@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuSolver", "SudokuSolver\SudokuSolver.csproj", "{0DA8BE1C-E377-4234-ADEC-ABEB356B363D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solutions", "Solutions\Solutions.csproj", "{0DA8BE1C-E377-4234-ADEC-ABEB356B363D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
